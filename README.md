@@ -21,7 +21,6 @@ https://yuva-saveraaa.vercel.app/
 - Vite  
 - Tailwind CSS  
 - JavaScript  
-- HTML5 & CSS3  
 - Vercel Deployment  
 
 ### Backend
